@@ -769,7 +769,7 @@
 | [西安电报群](https://tgbox.cc/detail/xiancity/) | 7381 | 入群必读： 本群用于讨论西安相关的衣食住行等话题，同时也可畅聊其他话题，原则上不做话题及聊天内容的限制。但是，为了不给广大群友带来困扰，请您遵守以下约定：… |
 | [臺灣群＊](https://tgbox.cc/detail/formosataiwan/) | 5276 | 台灣人的自由聊天室，歡迎喜歡台灣的朋友來參與。從美食到旅遊、從生活到看法、從遊戲到3C。話題不限，但請勿爭議。找不到聊天的好地方？那就來這裡吧 \~\\(≧▽≦)/\~… |
 | [东京IT技术者交流群](https://tgbox.cc/detail/tokyoit/) | 4259 | ❴TokyoIT讨论组❵ 畅所欲言 滔滔不绝 【禁止發布準則】🈲️色情、🈲️广告、🈲️黑产、🈲️推广群链接、🈲️各类形式aff、❨还大佬们一份干净的聊天环境❩… |
-| [海外华人聚乐部✨](https://tgbox.cc/detail/g3226/) | 3699 | ​欢迎加入【海外华人聚乐部】！这里聚集了各地优质华人资源，旨在搭建合规、高效的资讯与资源共享平台。 ​规则：禁止发布任何违法违规、电诈、网赌等不良广告。让我们携手打造正规、诚信的海… <sub>`空投` `免费` `羊毛福利`</sub> |
+| [海外华人聚乐部✨](https://tgbox.cc/detail/g3226/) | 3619 | ​欢迎加入【海外华人聚乐部】！这里聚集了各地优质华人资源，旨在搭建合规、高效的资讯与资源共享平台。 ​规则：禁止发布任何违法违规、电诈、网赌等不良广告。让我们携手打造正规、诚信的海… <sub>`空投` `免费` `羊毛福利`</sub> |
 | [武汉](https://tgbox.cc/detail/wuhanz/) | 3526 | 禁止传播谣言/盗版 禁止撕逼/谩骂/人身攻击 禁止广告/推广/黑产/灰产/暗网/刷屏/色情/开车/NSFW 搜索索引 @Googlezs 话题 @beijingv 上海… |
 | [中国 China](https://tgbox.cc/detail/cnchinese/) | 2984 | 禁止传播谣言/盗版 禁止撕逼/谩骂/人身攻击 禁止广告/推广/黑产/灰产/暗网/刷屏/色情/开车/NSFW 搜索索引 @Googlezs 话题 @beijingv 上海… |
 | [杭州](https://tgbox.cc/detail/hangzhouz/) | 1706 | 禁止传播谣言/盗版 禁止撕逼/谩骂/人身攻击 禁止广告/推广/黑产/灰产/暗网/刷屏/色情/开车/NSFW 搜索索引 @Googlezs 话题 @beijingv 上海… |
@@ -885,9 +885,9 @@
 | [Syntx AI](https://tgbox.cc/detail/syntxaibot/) | 45万 | TG上最强大的AI:Seedance 2.5,Kling 3.0,VEO 3.1,Claude,GPT,Nano banana 2/Pro 和更多。 <sub>`AI绘画` `AI视频` `大模型`</sub> |
 | [Satu Digital](https://tgbox.cc/detail/satudigitalbot/) | 8.6万 | 官方频道: @satu\_digital 加入我们的官方频道以获得每小时重置警报、特殊折扣和系统 <sub>`免费`</sub> |
 | [Uniset AI • ChatGPT](https://tgbox.cc/detail/uniset/) | 7.5万 | 可访问 ChatGPT、Nano Banana、Seedance 和其他模型的机器人. 网站 → uniset.ai 支持: @unisupbot <sub>`AI视频` `ChatGPT` `大模型`</sub> |
-| [SHAZEN \| Ai Music Finder](https://tgbox.cc/detail/shazenbot/) | 6.1万 | 使用 AI 搜索 120 万多首歌曲 @alirezafrp <sub>`音乐`</sub> |
+| [SHAZEN \| Ai Music Finder](https://tgbox.cc/detail/shazenbot/) | 6万 | 使用 AI 搜索 120 万多首歌曲 @alirezafrp <sub>`音乐`</sub> |
 | [Blabber.live \[AI characters\]](https://tgbox.cc/detail/blabber_live_bot/) | 5.4万 | 一个地方,独特的AI人物生存 支持: @lilith\_blabberannoo 社区: @blabber\_live\_community |
-| [幻梦AI伴侣](https://tgbox.cc/detail/fancytavernbot/) | 4.6万 | 幻梦AI，一款让你怦然心动的AI角色扮演产品，满足你的一切幸福幻想。 官方交流群： @HMAIMate 官方客服： @ai\_x01\_bot 官方商务合作：… |
+| [幻梦AI伴侣](https://tgbox.cc/detail/fancytavernbot/) | 4.7万 | 幻梦AI，一款让你怦然心动的AI角色扮演产品，满足你的一切幸福幻想。 官方交流群： @HMAIMate 官方客服： @ai\_x01\_bot 官方商务合作：… |
 | [Kandinsky](https://tgbox.cc/detail/kandinsky21_bot/) ✔️ | 3.7万 | 卡丁斯基 由 Sber AI <sub>`官方`</sub> |
 | [The Peach](https://tgbox.cc/detail/the_peach_admin_bot/) | 2.7万 | 欢迎来到 Peach - 发现,选择和与AI字符聊天。支持: @The\_Peach\_Support |
 | [Grok](https://tgbox.cc/detail/grokai/) ✔️ | 2.6万 | Grok 3 是 xAI 的边界语言模型,现在可供所有 Telegram Premium 订阅者免费使用! <sub>`大模型` `官方`</sub> |
@@ -920,14 +920,14 @@
 | [GameFactoryBot](https://tgbox.cc/detail/gamefactorybot/) | 7.3万 | 这个机器人创建了在线游戏,你可以与朋友分享和玩。 |
 | [Werewolf Moderator \[☮\]](https://tgbox.cc/detail/werewolfbot/) | 5.5万 | Werewolf Moderator bot - http://www.tgwerewolf.com 信息来源: github.com/GreyWolfDev/Werewolf <sub>`开源`</sub> |
 | [UNO Bot](https://tgbox.cc/detail/unobot/) | 3.9万 | 通过内线命令玩UNO牌游戏 <sub>`免费` `开源`</sub> |
-| [Draughts](https://tgbox.cc/detail/goplaybot/) | 3万 | Draughts bot |
+| [Draughts](https://tgbox.cc/detail/goplaybot/) | 2.9万 | Draughts bot |
 | [Minroob Game مینروب](https://tgbox.cc/detail/minroobot/) | 2.7万 | 在Telegram上播放经典Minesweeper游戏的多人版本! 支持: @minsupport |
 | [Easy 🎮 Play](https://tgbox.cc/detail/easy2play_bot/) | 2.5万 | 最后的游戏中心在Telegram |
 | [Alpaca Voice Changer](https://tgbox.cc/detail/voice_changer_bot/) | 2.2万 | 我可以更改您的语音信息中的声音! |
 | [Doodle Gator — Draw & Guess charades…](https://tgbox.cc/detail/doodlegatorbot/) | 2.1万 | 在您的电报组中绘制并猜测快速草图! 英文: @DoodleGator Ru: @CrocoDrawChat 支持: @CrocoLab |
 | [Bus Uncle](https://tgbox.cc/detail/sgbusunclebot/) | 1.6万 | 我告诉你巴士抵达时间和如何去新加坡的任何地方 |
 | [Chess Now](https://tgbox.cc/detail/chessnowbot/) | 1.5万 | 与朋友、同事或同事参加激动人心的象棋比赛,而不离开Telegram。 |
-| [BlackWerewolf](https://tgbox.cc/detail/blackwerewolfbot/) | 1.3万 | 第二个 @blackwwrobot 查看 @BlackWolf 信息和更新。 支持: @blackwolfhelp |
+| [BlackWerewolf](https://tgbox.cc/detail/blackwerewolfbot/) | 1.4万 | 第二个 @blackwwrobot 查看 @BlackWolf 信息和更新。 支持: @blackwolfhelp |
 
 <details>
 <summary>展开其余 1 个</summary>
@@ -1141,9 +1141,9 @@
 
 | 名称 | 月活 | 简介 |
 | --- | ---: | --- |
-| [AximoBot \| RSS & Social Media Forwarder](https://tgbox.cc/detail/aximobot/) | 2.4万 | AximoBot - 顶级RSS和社交媒体提供商. 推送TikTok,Instagram,YouTube,Twitter,Reddit,Facebook,Telegram |
+| [AximoBot \| RSS & Social Media Forwarder](https://tgbox.cc/detail/aximobot/) | 2.3万 | AximoBot - 顶级RSS和社交媒体提供商. 推送TikTok,Instagram,YouTube,Twitter,Reddit,Facebook,Telegram |
 | [Feed Reader Bot](https://tgbox.cc/detail/thefeedreaderbot/) | 1.2万 | Feed Reader Bot监控RSS源,X / YouTube帐户,每次发布新帖子时向您发送通知。 |
-| [CryptoWhale](https://tgbox.cc/detail/cryptowhalebot/) | 1万 | 加密货币,股票,外汇价格,图表和新闻博客频道 主: @WhaleBotAlerts Liqs: @WhaleBotRektd Dev @icebergy |
+| [CryptoWhale](https://tgbox.cc/detail/cryptowhalebot/) | 1.1万 | 加密货币,股票,外汇价格,图表和新闻博客频道 主: @WhaleBotAlerts Liqs: @WhaleBotRektd Dev @icebergy |
 | [El Monitorro - Feed Reader](https://tgbox.cc/detail/el_monitorro_bot/) | — | El Monitorro is Feed Reader. 键入 /help 以查看可用的命令. 加入 https://t.me/el\_monitorro 以获得反馈 <sub>`免费` `开源`</sub> |
 | [EventsAggregator](https://tgbox.cc/detail/eventsaggregatorbot/) | — | 发送你最喜欢的Twitter,Instagram,RSS,Reddit,YouTube,Twitch帐户在Telegram。反馈: @evagfeedback <sub>`免费`</sub> |
 | [Feed Man Bot](https://tgbox.cc/detail/feedmanbot/) | — | @FeedManBot 您的完美伴侣,以保持您的所有RSS源的更新 <sub>`免费`</sub> |
